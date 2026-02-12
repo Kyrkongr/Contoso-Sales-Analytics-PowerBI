@@ -1,26 +1,23 @@
-# Executive Sales Dashboard | Power BI Project
+# Sales Analytics Portfolio - Contoso Dataset
+I built this Power BI dashboard to analyze retail performance and profitability using the Contoso dataset. This project was developed as part of my preparation for graduate studies in Data Science, focusing on data modeling and the extraction of actionable business insights.
 
-# Project Overview
-This project presents a comprehensive analysis of retail sales data using the **Contoso Dataset**. The goal was to transform raw data into actionable business insights by creating an interactive and professional dashboard.
+What’s inside
+The analysis focuses on three main pillars:
 
-# Tech Stack & Skills
-- **Tool:** Microsoft Power BI Desktop
-- **Data Modeling:** Implemented a **Star Schema** architecture (Fact and Dimension tables).
-- **DAX (Data Analysis Expressions):** Created custom measures for key business metrics such as:
-  - Total Sales & Profit Margin
-  - Year-over-Year (YoY) Growth
-  - Regional Performance Analysis
-- **ETL Process:** Used **Power Query** for data cleaning, transformation, and normalization.
+Data Modeling: A clean Star Schema architecture to ensure report performance and data integrity.
 
-# Key Features of the Dashboard
-- **Executive Summary:** High-level KPIs for quick decision-making.
-- **Trend Analysis:** Visualizing sales performance over time to identify seasonality.
-- **Product Performance:** Detailed breakdown of sales by category and subcategory.
-- **Interactivity:** Integrated slicers and drill-through actions for deep-dive analysis.
+DAX Logic: Custom measures for calculating YoY (Year-over-Year) growth, profit margins, and sales trends.
 
-# Project Structure
-- `PowerBI_Sales_Analysis_YourName.pdf`: A detailed report containing screenshots and descriptions of the dashboard's logic and visuals.
-- `ContososalesPowerBI.pbix`: The original Power BI source file (available upon request or link to Drive).
+UI/UX: An interactive interface designed for end-users to drill down into specific product categories and regions.
 
-# How to View
-Since the full .pbix file is large, you can view the complete analysis and the interactive charts in the **PDF Portfolio** included in this repository.
+Project Documentation
+Due to the large size of the original Power BI file, I have documented the entire dashboard and the analytical logic in a PDF report.
+
+You can view the full report here: Contoso_Retail_Performance_Report.pdf
+
+Tools used
+Microsoft Power BI Desktop
+
+Power Query (ETL)
+
+DAX
